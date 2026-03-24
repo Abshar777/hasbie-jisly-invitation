@@ -78,7 +78,7 @@ export default function App() {
               transition={{ duration: 0.8 }}
               className="space-y-4"
             >
-              <h1 className="font-serif text-4xl sm:text-5xl md:text-7xl font-bold tracking-tight leading-tight text-red-glare">
+              <h1 className="font-serif font-nowrap text-4xl sm:text-5xl md:text-7xl font-bold tracking-tight leading-tight text-red-glare">
                 Mohammed Hasbie A V
               </h1>
               <p className="text-[10px] sm:text-sm uppercase tracking-[0.2em] sm:tracking-[0.4em] text-gold font-medium">
