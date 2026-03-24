@@ -79,7 +79,7 @@ export default function App() {
               className="space-y-4"
             >
               <h1 className="font-serif text-nowrap text-4xl sm:text-5xl md:text-7xl font-bold tracking-tight leading-tight text-red-glare">
-                Mohammed Hasbie A V
+                Mohammed Hasbie
               </h1>
               <p className="text-[10px] sm:text-sm uppercase tracking-[0.2em] sm:tracking-[0.4em] text-gold font-medium">
                 Grandson of Late Abdul Kader Haji & Late Chullikkal Hyder
@@ -92,7 +92,7 @@ export default function App() {
               </div>
 
               <h1 className="font-serif text-4xl sm:text-5xl md:text-7xl font-bold tracking-tight leading-tight text-red-glare">
-                Jisly Shareefa M I
+                Jisly Shareefa
               </h1>
               <p className="text-[10px] sm:text-sm uppercase tracking-[0.2em] sm:tracking-[0.4em] text-gold font-medium">
                 D/o. Mr. APM Ismail (Late) & Mrs. Sulaikha Ismail
