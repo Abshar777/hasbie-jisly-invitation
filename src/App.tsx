@@ -95,7 +95,7 @@ export default function App() {
                 Jisly Shareefa M I
               </h1>
               <p className="text-[10px] sm:text-sm uppercase tracking-[0.2em] sm:tracking-[0.4em] text-gold font-medium">
-                D/o. Mr. Late Ismail APM & Mrs. Sulaikha Ismail
+                D/o. Mr. APM Ismail (Late) & Mrs. Sulaikha Ismail
               </p>
               <p className="text-[9px] sm:text-xs uppercase tracking-[0.1em] sm:tracking-[0.2em] text-gray-500">
                 MULTHAZAM, K.K. JUNCTION, PONNANI
