@@ -240,17 +240,6 @@ export default function App() {
           ))}
         </div>
       </main>
-
-      {/* Background Music Toggle (Visual Only) */}
-      <motion.div 
-        initial={{ x: 100 }}
-        animate={{ x: 0 }}
-        className="fixed bottom-8 right-8 z-50"
-      >
-        <button className="w-12 h-12 bg-white rounded-full shadow-2xl border border-gold/20 flex items-center justify-center text-maroon hover:text-gold transition-colors">
-          <Music size={20} />
-        </button>
-      </motion.div>
     </div>
   );
 }
