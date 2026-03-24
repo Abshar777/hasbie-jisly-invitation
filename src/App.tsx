@@ -161,7 +161,7 @@ export default function App() {
           <div className="mt-20 space-y-8">
             <div className="space-y-2">
               <p className="text-xs uppercase tracking-[0.3em] text-gold font-bold">Best Compliments From:</p>
-              <p className="font-serif text-xl font-medium">MUHAMMED TAMEEM & THAHSEENA BANU</p>
+              <p className="font-serif text-xl font-medium">KITH & KIN</p>
             </div>
 
             <div className="flex flex-col items-center gap-6 pt-8 border-t border-gold/10">
