@@ -63,9 +63,10 @@ export const Preloader = () => {
             transition={{ duration: 1, delay: 0.5 }}
             className="relative z-10"
           >
-            <span className="font-serif text-5xl sm:text-7xl font-bold text-red-glare tracking-tighter">
+            {/* <span className="font-serif text-5xl sm:text-7xl font-bold text-red-glare tracking-tighter">
               H&J
-            </span>
+            </span> */}
+            <img src="/logo.png" alt="Logo" className="w-30 h-30 sm:w-40 brightness-[100] text-red-glare  sm:h-40" />
           </motion.div>
         </div>
 

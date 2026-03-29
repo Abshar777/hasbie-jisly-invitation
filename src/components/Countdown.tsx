@@ -15,7 +15,7 @@ const RollingNumber = ({ value }: RollingNumberProps) => {
           animate={{ y: 0, opacity: 1 }}
           exit={{ y: -40, opacity: 0 }}
           transition={{ duration: 0.6, ease: [0.23, 1, 0.32, 1] }}
-          className="absolute font-serif text-3xl font-bold text-maroon"
+          className="absolute font-serif md:text-3xl text-xl font-bold text-maroon"
         >
           {value}
         </motion.span>

@@ -64,7 +64,7 @@ export default function App() {
               </p>
             </div>
 
-            <p className="font-serif text-lg max-w-lg mx-auto leading-relaxed mt-8">
+            <p className="font-serif text-sm max-w-lg mx-auto leading-relaxed mt-8">
               WE CORDIALLY INVITE YOU TO JOIN US IN CELEBRATION AND PRAYER AS WE HONOR THE JOYOUS OCCASION OF OUR DEAR SON'S WEDDING.
             </p>
           </motion.div>
@@ -166,8 +166,9 @@ export default function App() {
 
             <div className="flex flex-col items-center gap-6 pt-8 border-t border-gold/10">
               <div className="flex flex-col sm:flex-row items-center gap-6 sm:gap-8">
-                <div className="w-16 h-16 border border-gold/30 rounded-xl flex items-center justify-center bg-gold-light/50 shadow-inner">
-                  <span className="font-serif text-3xl text-maroon font-bold">H&J</span>
+                <div className=" rounded-xl flex items-center justify-center ">
+                  {/* <span className="font-serif text-3xl text-maroon font-bold">H&J</span> */}
+                  <img src="/logo.png" alt="Logo" className="w-20 h-20   " />
                 </div>
                 <div className="text-center sm:text-left">
                   <p className="text-[10px] uppercase tracking-[0.3em] text-gold font-bold mb-2">Scan for Location</p>
