@@ -78,7 +78,7 @@ export default function App() {
               transition={{ duration: 0.8 }}
               className="space-y-4"
             >
-              <h1 className="font-serif text-nowrap text-[2.20rem] sm:text-5xl md:text-7xl font-bold tracking-tight leading-tight text-red-glare">
+              <h1 className="font-serif text-nowrap text-[2.17rem] sm:text-5xl md:text-7xl font-bold tracking-tight leading-tight text-red-glare">
                 Mohammed Hasbie
               </h1>
               <p className="text-[10px] sm:text-sm uppercase tracking-[0.2em] sm:tracking-[0.4em] text-gold font-medium">
@@ -91,7 +91,7 @@ export default function App() {
                 <div className="h-px w-8 sm:w-12 bg-gold/40" />
               </div>
 
-              <h1 className="font-serif text-[2.20rem] sm:text-5xl md:text-7xl font-bold tracking-tight leading-tight text-red-glare">
+              <h1 className="font-serif text-[2.17rem] sm:text-5xl md:text-7xl font-bold tracking-tight leading-tight text-red-glare">
                 Jisly Shareefa
               </h1>
               <p className="text-[10px] sm:text-sm uppercase tracking-[0.2em] sm:tracking-[0.4em] text-gold font-medium">
